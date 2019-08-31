@@ -3,6 +3,7 @@ setTimeout(
   500,
 );
 
-for (let i = 0; i < 1e10; i++) {
+for (let i = 0; i < 10; i++) {
   // Block Node Synchronously
+
 }
